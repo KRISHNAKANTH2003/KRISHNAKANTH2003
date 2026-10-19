@@ -1,11 +1,9 @@
 𓆩♡𓆪 KRISHNA KANTH A.
 
-┊ AI Engineer • AI & Data Science
-┊ building intelligent systems in silence.
-┊ exploring LLMs, Agentic AI & deep learning.
-┊ turning imagination into innovation.
+⌘ AI Engineer • AI & Data Science
+⟡ Exploring LLMs, Agentic AI & Deep Learning
+𖤐 Building intelligent systems, one model at a time.
 
-⌘ Python · PyTorch · Generative AI
-⟡ learn. build. experiment. evolve.
+Python · PyTorch · Generative AI
 
-「 somewhere between logic & imagination. 」
+「 somewhere between logic & imagination 」

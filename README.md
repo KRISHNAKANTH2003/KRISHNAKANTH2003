@@ -1,9 +1,21 @@
-𓆩♡𓆪 KRISHNA KANTH A.
+<h2 align="left">𓆩♡𓆪 Krishna Kanth A.</h2>
 
-⌘ AI Engineer • AI & Data Science
-⟡ Exploring LLMs, Agentic AI & Deep Learning
-𖤐 Building intelligent systems, one model at a time.
+<p align="left">
+  <samp>
+    AI Engineer · AI & Data Science<br/>
+    Exploring the intersection of intelligence & imagination.<br/>
+    Building with LLMs, Agentic AI & Deep Learning.
+  </samp>
+</p>
 
-Python · PyTorch · Generative AI
+<br/>
 
-「 somewhere between logic & imagination 」
+<p align="left">
+  <code>Python</code> · <code>PyTorch</code> · <code>Generative AI</code>
+</p>
+
+<br/>
+
+<p align="left">
+  <i>“quietly building something extraordinary.”</i>
+</p>

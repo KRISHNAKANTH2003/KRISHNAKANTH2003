@@ -1,4 +1,4 @@
-<h2 align="left">𓆩♡𓆪 Krishna Kanth A.</h2>
+<h2 align="left">Krishna Kanth A.</h2>
 
 <p align="left">
   <samp>
